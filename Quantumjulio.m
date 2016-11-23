@@ -4,13 +4,13 @@
 (* Created by Julio Xu and etc.*)
 
 (* :Title: Sliwadatas *)
-(* :Author: Adan Cabello, Zhen-peng Xu and etc. <xuzp1009@gmail.com> *)
+(* :Author: Julio Xu and etc. <xuzp1009@gmail.com> *)
 (* :Context: Sliwadatas` *)
 (* :Version: 0.1 *)
 (* :Date: 2016-09-14 *)
 
 (* :Mathematica Version: 11 *)
-(* :Copyright: (c) 2016 Adan Cabello *)
+(* :Copyright: (c) 2016 Julio Xu*)
 
 (* This package stores the datas of Sliwa inequalities, totally 46*)
 If[$VersionNumber < 10,
